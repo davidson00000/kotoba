@@ -64,7 +64,7 @@ Stakeholders played by AI agents where possible; human (Kosuke) holds TPM.
 
 ## CV / Interview Statement
 
-> Led a personal AI/cloud initiative (Kotoba voice assistant) as Technical Program Manager, following PMBOK process groups end-to-end. Produced and version-controlled all standard artifacts — Charter, Stakeholder Register, Scope, WBS, Schedule, Risk Register, Communications Plan, TDD with ADRs, Quality Plan, Sprint Plans, Status Reports, Change Log, Lessons Learned, Final Report. Orchestrated a distributed team of six AI collaborators (ChatGPT, Claude browser, Claude Code, Codex Desktop, Antigravity IDE, Claude Cowork) across Architecture, Dev, QA, Customer, Review, and PMO roles, enforcing separation of duties (Dev ≠ QA, PO ≠ Customer) and change control. Delegated documentation maintenance to a dedicated PMO agent so the TPM role stayed focused on decisions. Repository: github.com/\<user\>/kotoba
+> Led a personal AI/cloud initiative (Kotoba voice assistant) as Technical Program Manager, following PMBOK process groups end-to-end. Produced and version-controlled all standard artifacts — Charter, Stakeholder Register, Scope, WBS, Schedule, Risk Register, Communications Plan, TDD with ADRs, Quality Plan, Sprint Plans, Status Reports, Change Log, Lessons Learned, Final Report. Orchestrated a distributed team of six AI collaborators (ChatGPT, Claude browser, Claude Code, Codex Desktop, Antigravity IDE, Claude Cowork) across Architecture, Dev, QA, Customer, Review, and PMO roles, enforcing separation of duties (Dev ≠ QA, PO ≠ Customer) and change control. Delegated documentation maintenance to a dedicated PMO agent so the TPM role stayed focused on decisions. Repository: https://github.com/davidson00000/kotoba
 
 ---
 
