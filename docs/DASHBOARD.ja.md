@@ -1,6 +1,6 @@
 # プログラム・ダッシュボード — Kotoba
 
-**基準日:** YYYY-MM-DD（週次更新）
+**基準日:** 2026-04-20（週次更新）
 **TPM:** Kosuke Nakamura
 **English:** [DASHBOARD.md](DASHBOARD.md)
 

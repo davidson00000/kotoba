@@ -1,8 +1,8 @@
 # Project Charter — Kotoba
 
 **Project Name:** Kotoba — Personal AI Voice Assistant
-**Charter Version:** 0.1 (Draft)
-**Date:** YYYY-MM-DD
+**Charter Version:** 1.0 (Approved)
+**Date:** 2026-04-20
 **Sponsor:** Kosuke Nakamura (self-funded)
 **TPM:** Kosuke Nakamura
 
@@ -14,19 +14,19 @@ Build a Jarvis-style voice assistant (spoken summary + on-screen detail) as a ve
 
 ## 2. Objectives (SMART)
 
-| # | Objective | Measure | Target Date |
-|---|---|---|---|
-| O1 | Working voice→LLM→voice+screen loop | End-to-end demo video | MVP + 8 weeks |
-| O2 | Cloud-deployed backend | Public endpoint reachable | MVP + 8 weeks |
-| O3 | All PMBOK artifacts kept current | 100% of artifact slots populated and updated within the sprint they belong to | Ongoing |
-| O4 | GitHub repo auditable | All commits tied to Change Log or Sprint | Ongoing |
+| #   | Objective                           | Measure                                                                       | Target Date   |
+| --- | ----------------------------------- | ----------------------------------------------------------------------------- | ------------- |
+| O1  | Working voice→LLM→voice+screen loop | End-to-end demo video                                                         | MVP + 8 weeks |
+| O2  | Cloud-deployed backend              | Public endpoint reachable                                                     | MVP + 8 weeks |
+| O3  | All PMBOK artifacts kept current    | 100% of artifact slots populated and updated within the sprint they belong to | Ongoing       |
+| O4  | GitHub repo auditable               | All commits tied to Change Log or Sprint                                      | Ongoing       |
 
 ## 3. In Scope
 
 - Voice input (STT)
 - LLM orchestration (Anthropic API or equivalent)
 - Voice output (TTS) + synchronized on-screen detail panel
-- At least 3 concrete skills (e.g., calendar lookup, weather, web search) — TBD in Scope Statement
+- **MVP skill set (3 skills):** Weather, Reminders & Timers, Web search. Rationale: three distinct invocation patterns (external API / local state / LLM-backed search) provide architectural coverage while keeping auth and cost overhead minimal. Final scope and acceptance criteria detailed in the Scope Statement.
 - Cloud deployment of backend
 - Full PMBOK artifact set
 
@@ -68,7 +68,9 @@ Target monthly cloud + API spend cap: **$30/month** during dev, **$60/month** du
 
 ## 9. Approval
 
-| Role | Name | Signature | Date |
-|---|---|---|---|
-| Sponsor | Kosuke Nakamura | | |
-| TPM | Kosuke Nakamura | | |
+| Role    | Name            | Signature | Date          |
+| ------- | --------------- | --------- | ------------- |
+| Sponsor | Kosuke Nakamura | Kosuke    | 2026-04-20    |
+| TPM     | Kosuke Nakamura | Kosuke    | 2026-04-21    |
+
+**Note on signature sequence:** Sponsor signs first to formally authorize the project and delegate authority; TPM signs the following day to acknowledge receipt of that authority. Same individual holds both roles in this personal program, but the role separation is preserved through signature date to make the PMBOK-standard authorization flow auditable.

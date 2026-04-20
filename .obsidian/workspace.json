@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5
+    "width": 250.5
   },
   "right": {
     "id": "e826b8b2225b0608",
@@ -186,11 +186,11 @@
   "active": "99c21c71c665a3de",
   "lastOpenFiles": [
     "docs/00-charter/project-charter.md",
-    "docs/01-stakeholders/stakeholder-register.ja.md",
-    "docs/01-stakeholders/stakeholder-register.md",
     "docs/00-charter/project-charter.ja.md",
     "docs/DASHBOARD.ja.md",
     "docs/DASHBOARD.md",
+    "docs/01-stakeholders/stakeholder-register.ja.md",
+    "docs/01-stakeholders/stakeholder-register.md",
     "README.ja.md",
     "docs/07-design/tdd.ja.md",
     "docs/02-scope/wbs.ja.md",

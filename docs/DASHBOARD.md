@@ -1,6 +1,6 @@
 # Program Dashboard — Kotoba
 
-**As of:** YYYY-MM-DD (update weekly)
+**As of:** 2026-04-20 (update weekly)
 **TPM:** Kosuke Nakamura
 **日本語版:** [DASHBOARD.ja.md](DASHBOARD.ja.md)
 
